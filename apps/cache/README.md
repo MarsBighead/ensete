@@ -1,4 +1,4 @@
-# Eralng Simple Cache System
+# Erlang Simple Cache System
 
 - Build code directory cache/ebin cache/src
 

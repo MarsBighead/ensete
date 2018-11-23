@@ -1,4 +1,4 @@
-# Eralng RPC server
+# Erlang RPC server
 
 - Build code directory rpc/ebin rpc/src
 
