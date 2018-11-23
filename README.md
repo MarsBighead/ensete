@@ -6,4 +6,4 @@ An Erlang project to learn the basic usage scenario
 
 * [A simple cache system](./apps/rpc) - Learn to write a simple cache system with Erlang
 
-* [bahaviour](./learn/bahaviour) - In-depth understand of how Erlang default function behaviour works.
+* [behaviour](./learn/behaviour) - In-depth understand of how Erlang default function behaviour works.
